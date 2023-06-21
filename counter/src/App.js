@@ -8,7 +8,7 @@ export default function CounterApp() {
   }
 
   function decrement () {
-    setScore(score - 1);
+    setScore(score - 2);
   }
 
   return (
